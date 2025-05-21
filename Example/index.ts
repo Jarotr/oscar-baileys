@@ -1,3 +1,5 @@
+//copyright Jarot Offc
+
 import { Boom } from '@hapi/boom';
 import NodeCache from '@cacheable/node-cache';
 import readline from 'readline';
